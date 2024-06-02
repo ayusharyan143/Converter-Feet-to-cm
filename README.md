@@ -1,3 +1,12 @@
+Released: 02 June, 2024
+
+Written by Ayush Aryan.
+
+(C) Copyright 2024-2025, by Ayush Aryan . All rights reserved.
+
+Please address all contributions, suggestions, and inquiries to the user mailing list
+
+
 # Overview
 This repository contains Java projects and examples that demonstrate various concepts, including GUI applications using Swing, file handling, multithreading, and more. The projects and examples are organized into different categories for easy navigation.
 
